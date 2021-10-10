@@ -98,7 +98,7 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     grid-gap: 2em;
     justify-content: space-evenly;
-    padding: 0px 30px 50px 30px;
+    padding: 0px 30px 50px 60px;
 }
 .project-tile a , .project-tile img {
     position: relative;
